@@ -1,0 +1,19 @@
+{
+    "name": "felipe/bredijuno",
+    "autoload": {
+        "psr-4": {
+            "Felipe\\Bredijuno\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Felipe Carneiro",
+            "email": "felipesan08@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1.3",
+        "guzzlehttp/guzzle": "7.0",
+        "ramsey/uuid": "^4.2"
+    }
+}
