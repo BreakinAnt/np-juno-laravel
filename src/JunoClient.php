@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Juno;
+namespace felipe\BrediJuno;
 
 use App\Juno\Services\JunoAPI;
 use App\Juno\Models\JunoBilling;

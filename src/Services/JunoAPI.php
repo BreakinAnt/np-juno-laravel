@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Juno\Services;
+namespace felipe\BrediJuno\Services;
 
 use App\Juno\Models\JunoEnvironment;
 use App\Juno\Models\JunoPix;

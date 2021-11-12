@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Juno\Models;
+namespace felipe\BrediJuno\Models;
 
 abstract class JunoPayment {
     const creditCard = 'CREDIT_CARD';

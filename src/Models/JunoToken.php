@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Juno\Models;
+namespace felipe\BrediJuno\Models;
 
 use DateTime;
 use Illuminate\Database\Eloquent\Model;
