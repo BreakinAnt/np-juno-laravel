@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace felipe\BrediJuno\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -23,6 +23,6 @@ class JunoServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        $this->loadMigrationsFrom(__DIR__.'../database/migrations');
+        $this->loadMigrationsFrom(__DIR__.'/../database/migrations');
     }
 }
