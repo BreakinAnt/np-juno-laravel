@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '6acd4cb3c39e8664fff2f65a8f5bc1fee4bff47d',
+        'reference' => '285aa3d93da6d9f47ca23b1c2dbb62bef5519099',
         'name' => 'felipe/bredijuno',
         'dev' => true,
     ),
@@ -25,7 +25,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '6acd4cb3c39e8664fff2f65a8f5bc1fee4bff47d',
+            'reference' => '285aa3d93da6d9f47ca23b1c2dbb62bef5519099',
             'dev_requirement' => false,
         ),
         'guzzlehttp/guzzle' => array(
