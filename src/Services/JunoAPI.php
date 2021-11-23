@@ -2,12 +2,12 @@
 
 namespace felipe\BrediJuno\Services;
 
-use App\Juno\Models\JunoEnvironment;
-use App\Juno\Models\JunoPix;
+use felipe\BrediJuno\Models\JunoEnvironment;
+use felipe\BrediJuno\Models\JunoPix;
 use GuzzleHttp\Client as GuzzleClient;
 use GuzzleHttp\Psr7\Request as GuzzleRequest;
 use GuzzleHttp\Exception\ClientException as GuzzleClientException;
-use App\Juno\Models\JunoToken;
+use felipe\BrediJuno\Models\JunoToken;
 use Illuminate\Support\Str;
 use ErrorException;
 

@@ -2,12 +2,12 @@
 
 namespace felipe\BrediJuno;
 
-use App\Juno\Services\JunoAPI;
-use App\Juno\Models\JunoBilling;
-use App\Juno\Models\JunoCharge;
-use App\Juno\Models\JunoCreditCardCharge;
-use App\Juno\Models\JunoEnvironment;
-use App\Juno\Models\JunoPix;
+use felipe\BrediJuno\Services\JunoAPI;
+use felipe\BrediJuno\Models\JunoBilling;
+use felipe\BrediJuno\Models\JunoCharge;
+use felipe\BrediJuno\Models\JunoCreditCardCharge;
+use felipe\BrediJuno\Models\JunoEnvironment;
+use felipe\BrediJuno\Models\JunoPix;
 use ErrorException;
 use Illuminate\Support\Facades\Log;
 

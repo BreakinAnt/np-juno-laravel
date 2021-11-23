@@ -2,7 +2,7 @@
 
 namespace felipe\BrediJuno\Models;
 
-use App\Juno\JunoPayment;
+use felipe\BrediJuno\Models\JunoPayment;
 
 //doc: https://dev.juno.com.br/api/v2#operation/createCharge
 class JunoCharge
